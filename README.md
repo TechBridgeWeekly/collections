@@ -1,4 +1,4 @@
-# TechBridge Weekly Collections
+# TechBridge Weekly 技術週刊 Collections
 [TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/)是一個開發者為開發者編輯的綜合性技術週刊。歡迎使用 issues 分享您看到的優質文章:)
 
 ## How to start ?
