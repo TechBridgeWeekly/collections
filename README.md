@@ -17,8 +17,7 @@
 10. 每週一書(Books)
 
 ## Fromat
-本週精選(Selected)
-1. [繁] [工程師要如何開始撰寫技術部落格？](https://devdactic.com/start-development-blog/)
+1. [繁] [工程師要如何開始撰寫技術部落格？](https://devdactic.com/start-development-blog/) `本週精選(Selected)`
 
 許多技術面試官都很欣賞有撰寫技術部落格習慣的面試者，此外透過撰寫部落格可以提昇自己的溝通表達能力和思考邏輯能力。到底要如何開始撰寫技術部落格呢？來看看作者的經驗分享。
 
