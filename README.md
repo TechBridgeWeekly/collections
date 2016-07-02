@@ -1,8 +1,10 @@
 # TechBridge Weekly Collections
-TechBridge Weekly 技術週刊是是一個開發者為開發者編輯的綜合性技術週刊。歡迎使用 issues 分享你看到的優質文章:)
+[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/)是是一個開發者為開發者編輯的綜合性技術週刊。歡迎使用 issues 分享你看到的優質文章:)
 
 ## How to start ?
 選擇你想要分享的 Topic，寫上你想分享的標題、網址和一段 100 字內的簡評，然後發 issues，若編輯審核通過即會將您分享的內容和您的個人 ID 放到這期的 TechBridge Weekly 技術週刊中，讓數千名讀者看見！That's all！Happy sharing :)
+
+### Topics
 1. 本週精選(Selected)
 2. 科技新聞(News)
 3. 網頁前後端(Web)
